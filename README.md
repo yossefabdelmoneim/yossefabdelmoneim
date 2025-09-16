@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 Projects
-- 🚀 [Bloggy]([https://github.com/yossefabdelmoneim/Bloggy.git]) 
+- 🚀 [Bloggy](https://github.com/yossefabdelmoneim/Bloggy)
 ---
 
 ## 🛠️ Tech Stack
@@ -26,7 +26,7 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](www.linkedin.com/in/yossef-abdelmoneim-aa9774287)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yossef-abdelmoneim-aa9774287)   
 📧 Email: youssefabdelmoniem11@gmail.com  
 
 ---
