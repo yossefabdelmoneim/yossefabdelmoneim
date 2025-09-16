@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 Projects
-- 🚀 [Bloggy](https://github.com/your-username/bloggy) 
+- 🚀 [Bloggy]([https://github.com/your-username/bloggy](https://github.com/yossefabdelmoneim/Bloggy.git)) 
 ---
 
 ## 🛠️ Tech Stack
