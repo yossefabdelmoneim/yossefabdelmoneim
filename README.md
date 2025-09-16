@@ -39,9 +39,8 @@ A dynamic blogging platform that empowers users to share their stories and conne
 ## 📚 Beyond Coding  
 
 - 📖 Avid reader (favorites: *Atomic Habits*, *Surrounded by Idiots*)  
-- ⚡ Always exploring new frameworks, tools, and self-growth ideas  
-- ☕ Big believer that great ideas start over coffee  
+- ⚡ Always exploring new frameworks, tools, and self-growth ideas   
 
 ---
 
-✨ Thanks for visiting my profile! Feel free to check out my projects or drop me a message — I’d love to connect.  
+✨ Thanks for visiting my profile! Feel free to check out my projects or drop me a message. 
