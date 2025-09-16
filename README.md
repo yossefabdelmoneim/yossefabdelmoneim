@@ -7,10 +7,7 @@
 ---
 
 ## 🌟 Projects
-- 🚀 [Bloggy](https://github.com/your-username/bloggy) – A full CRUD blog application built with Express & EJS.  
-- ⚡ [Project Name] – *Short description here.*  
-- 🔥 [Project Name] – *Short description here.*  
-
+- 🚀 [Bloggy](https://github.com/your-username/bloggy) 
 ---
 
 ## 🛠️ Tech Stack
@@ -28,16 +25,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-
----
-
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://your-portfolio.com)  
-📧 Email: your.email@example.com  
+[![LinkedIn](www.linkedin.com/in/yossef-abdelmoneim-aa9774287)   
+📧 Email: youssefabdelmoniem11@gmail.com  
 
 ---
 
