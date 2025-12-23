@@ -1,6 +1,6 @@
 # Hi there, I'm Yossef Abdelmoneim! 👋  
 
-**Software Engineering Student | Lifelong Learner | Builder of Ideas**  
+**Software Developer | Lifelong Learner | Builder of Ideas**  
 
 ---
 
@@ -15,7 +15,7 @@ _“Striving to bridge ideas and innovation with code.”_
 ## 💡 Skills & Technologies  
 
 - **Languages:** Python, JavaScript (ES6+), C++, Java, SQL  
-- **Frameworks & Libraries:** React, Node.js, Express  
+- **Frameworks & Libraries:** React, Node.js, Express, Bootstrap 
 - **Databases:** PostgreSQL, MySQL  
 - **Tools & Practices:** Git & GitHub, Postman, Agile, REST APIs  
 
