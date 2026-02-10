@@ -149,4 +149,3 @@ Cairo University
 ---
 
 ✨ Thanks for visiting my profile!  
-I’m actively seeking **backend or full-stack internship opportunities** and always open to learning and collaboration.
