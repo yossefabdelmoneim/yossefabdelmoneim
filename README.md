@@ -1,23 +1,24 @@
-# Hi there, I'm Youssef Abdelmoneim 👋  
+# Hi there, I'm Youssef Abdelmoneim
 
-**Software Engineering Student | Junior Backend Developer | Full-Stack Developer**
+**Software Engineering Student | Full-Stack Developer**
 
 ---
 
-## 🌟 About Me  
+## About Me  
 
-I’m a **Software Engineering student at Cairo University** and a **Junior Backend Developer** with strong foundations in backend development, databases, and RESTful API design.
+I’m a **Software Engineering student at Cairo University** and a **Junior Full-Stack Developer** with strong foundations in Full-Stack development, databases, and RESTful API design.
 
-I have hands-on experience building and maintaining backend services using **Node.js, NestJS, PostgreSQL, and Prisma**, including contributing to a **production mobile application deployed on the App Store and Google Play**.  
-I enjoy working in collaborative environments, writing clean APIs, and building systems that solve real-world problems.
+I have developed full-stack projects using Node.js, NestJS, Express, PostgreSQL, React, and Flutter, including applications deployed to production. I enjoy solving real-world problems through clean, maintainable code and collaborating in team environments.
 
 > _“Striving to bridge ideas and innovation with code.”_
 
+Portfolio: [yossefabdelmoneim.lovable.app](https://yossefabdelmoneim.lovable.app/)
+
 ---
 
-## 💡 Technical Skills  
+## Technical Skills  
 
-### 🧠 Programming Languages  
+### Programming Languages  
 - Java  
 - Python  
 - C++  
@@ -25,24 +26,24 @@ I enjoy working in collaborative environments, writing clean APIs, and building 
 - TypeScript  
 - SQL  
 
-### ⚙️ Backend  
+### Backend  
 - Node.js  
 - NestJS  
 - Express.js  
 - RESTful APIs  
 
-### 🗄️ Databases & ORM  
+### Databases & ORM  
 - PostgreSQL  
 - MySQL  
 - Prisma ORM  
 
-### 🖥️ Frontend  
+### Frontend  
 - React  
 - HTML  
 - CSS  
 - Flutter  
 
-### 🛠️ Tools & Practices  
+### Tools & Practices  
 - Git & GitHub  
 - Postman  
 - Swagger (API Documentation)  
@@ -50,9 +51,9 @@ I enjoy working in collaborative environments, writing clean APIs, and building 
 
 ---
 
-## 💼 Work Experience  
+## Work Experience  
 
-### 🏛️ Backend Developer  
+### Backend Developer  
 **Ministry of Youth and Sports** — Cairo, Egypt  
 **Dec 2025 – Feb 2026**
 
@@ -66,9 +67,9 @@ I enjoy working in collaborative environments, writing clean APIs, and building 
 
 ---
 
-## 🚀 Projects  
+##  Projects  
 
-### 📱 Book Fair Go  
+###  Book Fair Go  
 **Dec 2025 – Feb 2026**  
 Backend services for a Flutter mobile application.
 
@@ -84,7 +85,7 @@ Backend services for a Flutter mobile application.
 
 ---
 
-### 📖 [Bloggy](https://github.com/yossefabdelmoneim/Bloggy)  
+###  [Bloggy](https://github.com/yossefabdelmoneim/Bloggy)  
 **Sep 2025**
 
 A full-stack blogging platform built with the **PERN stack**.
@@ -98,7 +99,7 @@ A full-stack blogging platform built with the **PERN stack**.
 
 ---
 
-### 🛒 [Posters](https://github.com/yossefabdelmoneim/Posters)  
+### [Posters](https://github.com/yossefabdelmoneim/Posters)  
 **Oct 2025 – Nov 2025**
 
 A full-stack posters e-commerce platform delivered to a real client.
@@ -115,7 +116,7 @@ A full-stack posters e-commerce platform delivered to a real client.
 
 ---
 
-## 🎓 Education  
+## Education  
 
 **Bachelor of Computers and Artificial Intelligence (Software Engineering)**  
 Cairo University  
@@ -124,13 +125,13 @@ Cairo University
 
 ---
 
-## 📜 Certificates  
+## Certificates  
 
 - Full-Stack Web Development — Udemy  
 
 ---
 
-## 🏆 Extracurricular Activities  
+## Extracurricular Activities  
 
 - **Member, University Programming Club**
   - Participated in weekly coding challenges
@@ -140,11 +141,12 @@ Cairo University
 
 ---
 
-## 📫 Let’s Connect  
+## Let’s Connect  
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/yossef-abdelmoneim-aa9774287  
-- 💻 **GitHub:** https://github.com/yossefabdelmoneim  
-- 📧 **Email:** youssefabdelmoniem11@gmail.com  
+-  **LinkedIn:** https://www.linkedin.com/in/yossef-abdelmoneim-aa9774287
+-  **Portfolio**: [yossefabdelmoneim.lovable.app](https://yossefabdelmoneim.lovable.app/)
+-  **Email:** youssefabdelmoniem11@gmail.com  
+-  **GitHub:** https://github.com/yossefabdelmoneim  
 
 ---
 
